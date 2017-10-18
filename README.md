@@ -1,7 +1,7 @@
 # bme-bigdata
 Biomedical engineering - Big Data analytics platforms
 
-##AAAAAAAAAAAAAAAAAAAADDDDDDDDDDDDDDDDDDDDDaA
+##AAAAADDDDDDDDDDDDDDDDDDDDDaA
 
 ## Setting up a data science environment
 
